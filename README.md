@@ -6,6 +6,8 @@ This repository contains a deep learning model based on the Xception architectur
 
 ```
 ├── dataset/                    # Directory containing training and validation data
+├──   ├── shoplift/
+├──   ├── normal/
 ├── Dataloader.py               # Script to load the dataset
 ├── loadPreTrain.py             # Script to load the pretrained model
 ├── Prediction.py               # Script to predict given input frame
