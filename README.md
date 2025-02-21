@@ -11,6 +11,7 @@ This repository contains a deep learning model based on the Xception architectur
 ├── Prediction.py               # Script to predict given input frame
 ├── trainEval.py                # Train and eval model performance
 
+```
 ## Model Overview
 
 The Xception model is a deep convolutional neural network optimized for image classification tasks. In this project, we fine-tune the Xception model to classify shoplifting behavior from video frames.
